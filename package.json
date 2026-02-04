@@ -1,0 +1,20 @@
+{
+  "name": "file-converter",
+  "version": "1.0.0",
+  "description": "A powerful file converter web app supporting multiple formats - Images, Documents, Audio, Video, and Archives",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "file-converter",
+    "image-converter",
+    "document-converter",
+    "audio-converter",
+    "video-converter",
+    "web-app"
+  ],
+  "author": "",
+  "license": "MIT"
+}
